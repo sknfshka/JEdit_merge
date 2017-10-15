@@ -1,0 +1,69 @@
+{"timestamp":1507969982119,"type":"CHARACTER_KEY","position":0,"mask":0,"keyCode":83,"keyChar":"s","stringForm":"Character key with character s and keycode 83. 1507969982119"}
+{"timestamp":1507969982213,"type":"CHARACTER_KEY","position":1,"mask":0,"keyCode":79,"keyChar":"o","stringForm":"Character key with character o and keycode 79. 1507969982213"}
+{"timestamp":1507969982413,"type":"CHARACTER_KEY","position":2,"mask":0,"keyCode":77,"keyChar":"m","stringForm":"Character key with character m and keycode 77. 1507969982413"}
+{"timestamp":1507969982565,"type":"CHARACTER_KEY","position":3,"mask":0,"keyCode":69,"keyChar":"e","stringForm":"Character key with character e and keycode 69. 1507969982565"}
+{"timestamp":1507969983046,"type":"CHARACTER_KEY","position":4,"mask":0,"keyCode":32,"keyChar":" ","stringForm":"Character key with character   and keycode 32. 1507969983046"}
+{"timestamp":1507969983517,"type":"CHARACTER_KEY","position":5,"mask":0,"keyCode":84,"keyChar":"t","stringForm":"Character key with character t and keycode 84. 1507969983517"}
+{"timestamp":1507969983613,"type":"CHARACTER_KEY","position":6,"mask":0,"keyCode":69,"keyChar":"e","stringForm":"Character key with character e and keycode 69. 1507969983613"}
+{"timestamp":1507969983797,"type":"CHARACTER_KEY","position":7,"mask":0,"keyCode":83,"keyChar":"s","stringForm":"Character key with character s and keycode 83. 1507969983797"}
+{"timestamp":1507969983845,"type":"CHARACTER_KEY","position":8,"mask":0,"keyCode":84,"keyChar":"t","stringForm":"Character key with character t and keycode 84. 1507969983845"}
+{"timestamp":1507969984029,"type":"CHARACTER_KEY","position":9,"mask":0,"keyCode":32,"keyChar":" ","stringForm":"Character key with character   and keycode 32. 1507969984029"}
+{"timestamp":1507969984885,"type":"CHARACTER_KEY","position":10,"mask":0,"keyCode":76,"keyChar":"l","stringForm":"Character key with character l and keycode 76. 1507969984885"}
+{"timestamp":1507969985053,"type":"CHARACTER_KEY","position":11,"mask":0,"keyCode":79,"keyChar":"o","stringForm":"Character key with character o and keycode 79. 1507969985053"}
+{"timestamp":1507969985117,"type":"CHARACTER_KEY","position":12,"mask":0,"keyCode":71,"keyChar":"g","stringForm":"Character key with character g and keycode 71. 1507969985117"}
+{"timestamp":1507969985694,"type":"CHARACTER_KEY","position":13,"mask":0,"keyCode":32,"keyChar":" ","stringForm":"Character key with character   and keycode 32. 1507969985694"}
+{"timestamp":1507969986093,"type":"CHARACTER_KEY","position":14,"mask":0,"keyCode":84,"keyChar":"t","stringForm":"Character key with character t and keycode 84. 1507969986093"}
+{"timestamp":1507969986190,"type":"CHARACTER_KEY","position":15,"mask":0,"keyCode":69,"keyChar":"e","stringForm":"Character key with character e and keycode 69. 1507969986190"}
+{"timestamp":1507969986573,"type":"CHARACTER_KEY","position":16,"mask":0,"keyCode":88,"keyChar":"x","stringForm":"Character key with character x and keycode 88. 1507969986573"}
+{"timestamp":1507969986678,"type":"CHARACTER_KEY","position":17,"mask":0,"keyCode":84,"keyChar":"t","stringForm":"Character key with character t and keycode 84. 1507969986678"}
+{"timestamp":1507969988590,"type":"SELECTION","start":10,"end":11,"selectedText":"l","stringForm":"Selection text l from 10 to 11. 1507969988590","selectionLength":1}
+{"timestamp":1507969988598,"type":"SELECTION","start":10,"end":11,"selectedText":"l","stringForm":"Selection text l from 10 to 11. 1507969988598","selectionLength":1}
+{"timestamp":1507969988606,"type":"SELECTION","start":10,"end":11,"selectedText":"l","stringForm":"Selection text l from 10 to 11. 1507969988606","selectionLength":1}
+{"timestamp":1507969988613,"type":"SELECTION","start":10,"end":12,"selectedText":"lo","stringForm":"Selection text lo from 10 to 12. 1507969988613","selectionLength":2}
+{"timestamp":1507969988621,"type":"SELECTION","start":10,"end":12,"selectedText":"lo","stringForm":"Selection text lo from 10 to 12. 1507969988621","selectionLength":2}
+{"timestamp":1507969988629,"type":"SELECTION","start":10,"end":13,"selectedText":"log","stringForm":"Selection text log from 10 to 13. 1507969988629","selectionLength":3}
+{"timestamp":1507969988637,"type":"SELECTION","start":10,"end":13,"selectedText":"log","stringForm":"Selection text log from 10 to 13. 1507969988637","selectionLength":3}
+{"timestamp":1507969988645,"type":"SELECTION","start":10,"end":14,"selectedText":"log ","stringForm":"Selection text log  from 10 to 14. 1507969988645","selectionLength":4}
+{"timestamp":1507969988653,"type":"SELECTION","start":10,"end":15,"selectedText":"log t","stringForm":"Selection text log t from 10 to 15. 1507969988653","selectionLength":5}
+{"timestamp":1507969988662,"type":"SELECTION","start":10,"end":15,"selectedText":"log t","stringForm":"Selection text log t from 10 to 15. 1507969988662","selectionLength":5}
+{"timestamp":1507969988669,"type":"SELECTION","start":10,"end":16,"selectedText":"log te","stringForm":"Selection text log te from 10 to 16. 1507969988669","selectionLength":6}
+{"timestamp":1507969988677,"type":"SELECTION","start":10,"end":16,"selectedText":"log te","stringForm":"Selection text log te from 10 to 16. 1507969988677","selectionLength":6}
+{"timestamp":1507969988685,"type":"SELECTION","start":10,"end":17,"selectedText":"log tex","stringForm":"Selection text log tex from 10 to 17. 1507969988685","selectionLength":7}
+{"timestamp":1507969988693,"type":"SELECTION","start":10,"end":18,"selectedText":"log text","stringForm":"Selection text log text from 10 to 18. 1507969988693","selectionLength":8}
+{"timestamp":1507969988701,"type":"SELECTION","start":10,"end":18,"selectedText":"log text","stringForm":"Selection text log text from 10 to 18. 1507969988701","selectionLength":8}
+{"timestamp":1507969988710,"type":"SELECTION","start":10,"end":18,"selectedText":"log text","stringForm":"Selection text log text from 10 to 18. 1507969988710","selectionLength":8}
+{"timestamp":1507969988717,"type":"SELECTION","start":10,"end":18,"selectedText":"log text","stringForm":"Selection text log text from 10 to 18. 1507969988717","selectionLength":8}
+{"timestamp":1507969988726,"type":"SELECTION","start":10,"end":18,"selectedText":"log text","stringForm":"Selection text log text from 10 to 18. 1507969988726","selectionLength":8}
+{"timestamp":1507969988733,"type":"SELECTION","start":10,"end":18,"selectedText":"log text","stringForm":"Selection text log text from 10 to 18. 1507969988733","selectionLength":8}
+{"timestamp":1507969988741,"type":"SELECTION","start":10,"end":18,"selectedText":"log text","stringForm":"Selection text log text from 10 to 18. 1507969988741","selectionLength":8}
+{"timestamp":1507969988749,"type":"SELECTION","start":10,"end":18,"selectedText":"log text","stringForm":"Selection text log text from 10 to 18. 1507969988749","selectionLength":8}
+{"timestamp":1507969988758,"type":"SELECTION","start":10,"end":18,"selectedText":"log text","stringForm":"Selection text log text from 10 to 18. 1507969988758","selectionLength":8}
+{"timestamp":1507969988765,"type":"SELECTION","start":10,"end":18,"selectedText":"log text","stringForm":"Selection text log text from 10 to 18. 1507969988765","selectionLength":8}
+{"timestamp":1507969988773,"type":"SELECTION","start":10,"end":18,"selectedText":"log text","stringForm":"Selection text log text from 10 to 18. 1507969988773","selectionLength":8}
+{"timestamp":1507969988781,"type":"SELECTION","start":10,"end":18,"selectedText":"log text","stringForm":"Selection text log text from 10 to 18. 1507969988781","selectionLength":8}
+{"timestamp":1507969988789,"type":"SELECTION","start":10,"end":18,"selectedText":"log text","stringForm":"Selection text log text from 10 to 18. 1507969988789","selectionLength":8}
+{"timestamp":1507969988797,"type":"SELECTION","start":10,"end":18,"selectedText":"log text","stringForm":"Selection text log text from 10 to 18. 1507969988797","selectionLength":8}
+{"timestamp":1507969988805,"type":"SELECTION","start":10,"end":18,"selectedText":"log text","stringForm":"Selection text log text from 10 to 18. 1507969988805","selectionLength":8}
+{"timestamp":1507969990101,"type":"COPY_ACTION","text":"log text","stringForm":null}
+{"timestamp":1507969991157,"type":"CHARACTER_KEY","position":18,"mask":0,"keyCode":10,"keyChar":"\n","stringForm":"Character key with character \n and keycode 10. 1507969991157"}
+{"timestamp":1507969991450,"type":"PASTE_ACTION","text":"log text","position":19,"stringForm":null}
+{"timestamp":1507969992085,"type":"CHARACTER_KEY","position":27,"mask":0,"keyCode":32,"keyChar":" ","stringForm":"Character key with character   and keycode 32. 1507969992085"}
+{"timestamp":1507969992957,"type":"CHARACTER_KEY","position":28,"mask":0,"keyCode":67,"keyChar":"c","stringForm":"Character key with character c and keycode 67. 1507969992957"}
+{"timestamp":1507969993133,"type":"CHARACTER_KEY","position":29,"mask":0,"keyCode":79,"keyChar":"o","stringForm":"Character key with character o and keycode 79. 1507969993133"}
+{"timestamp":1507969993389,"type":"CHARACTER_KEY","position":30,"mask":0,"keyCode":80,"keyChar":"p","stringForm":"Character key with character p and keycode 80. 1507969993389"}
+{"timestamp":1507969993645,"type":"CHARACTER_KEY","position":31,"mask":0,"keyCode":73,"keyChar":"i","stringForm":"Character key with character i and keycode 73. 1507969993645"}
+{"timestamp":1507969993765,"type":"CHARACTER_KEY","position":32,"mask":0,"keyCode":69,"keyChar":"e","stringForm":"Character key with character e and keycode 69. 1507969993765"}
+{"timestamp":1507969993885,"type":"CHARACTER_KEY","position":33,"mask":0,"keyCode":68,"keyChar":"d","stringForm":"Character key with character d and keycode 68. 1507969993885"}
+{"timestamp":1507969994679,"type":"SELECTION","start":33,"end":34,"selectedText":"d","stringForm":"Selection text d from 33 to 34. 1507969994679","selectionLength":1}
+{"timestamp":1507969995178,"type":"SELECTION","start":32,"end":34,"selectedText":"ed","stringForm":"Selection text ed from 32 to 34. 1507969995178","selectionLength":2}
+{"timestamp":1507969995211,"type":"SELECTION","start":31,"end":34,"selectedText":"ied","stringForm":"Selection text ied from 31 to 34. 1507969995211","selectionLength":3}
+{"timestamp":1507969995244,"type":"SELECTION","start":30,"end":34,"selectedText":"pied","stringForm":"Selection text pied from 30 to 34. 1507969995244","selectionLength":4}
+{"timestamp":1507969995277,"type":"SELECTION","start":29,"end":34,"selectedText":"opied","stringForm":"Selection text opied from 29 to 34. 1507969995277","selectionLength":5}
+{"timestamp":1507969995310,"type":"SELECTION","start":28,"end":34,"selectedText":"copied","stringForm":"Selection text copied from 28 to 34. 1507969995310","selectionLength":6}
+{"timestamp":1507969997327,"type":"DELETE_KEY","position":28,"mask":0,"keyCode":8,"deletedText":"copied","deletedCharPosition":28,"stringForm":"Delete key with key code 8. 1507969997327. Deleted text copied in position 28"}
+{"timestamp":1507969998069,"type":"CHARACTER_KEY","position":28,"mask":0,"keyCode":68,"keyChar":"d","stringForm":"Character key with character d and keycode 68. 1507969998069"}
+{"timestamp":1507969998189,"type":"CHARACTER_KEY","position":29,"mask":0,"keyCode":69,"keyChar":"e","stringForm":"Character key with character e and keycode 69. 1507969998189"}
+{"timestamp":1507969998326,"type":"CHARACTER_KEY","position":30,"mask":0,"keyCode":76,"keyChar":"l","stringForm":"Character key with character l and keycode 76. 1507969998326"}
+{"timestamp":1507969998533,"type":"CHARACTER_KEY","position":31,"mask":0,"keyCode":69,"keyChar":"e","stringForm":"Character key with character e and keycode 69. 1507969998533"}
+{"timestamp":1507969998733,"type":"CHARACTER_KEY","position":32,"mask":0,"keyCode":84,"keyChar":"t","stringForm":"Character key with character t and keycode 84. 1507969998733"}
+{"timestamp":1507969998877,"type":"CHARACTER_KEY","position":33,"mask":0,"keyCode":69,"keyChar":"e","stringForm":"Character key with character e and keycode 69. 1507969998877"}

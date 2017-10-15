@@ -1,0 +1,57 @@
+23:57:16 [main] [message] jEdit: jEdit home directory is C:\Users\User\Downloads\jedit_merge
+23:57:16 [main] [message] BeanShell: Beanshell Init
+23:57:16 [main] [debug] GUIUtilities: Icon theme set to: tango
+23:57:16 [main] [debug] GUIUtilities: Loading icon theme from: jeditresource:/org/gjt/sp/jedit/icons/themes/tango/
+23:57:16 [main] [debug] EditServer: jEdit server started on port 49735
+23:57:16 [main] [debug] EditServer: Authorization key is 1289746315
+23:57:17 [main] [debug] jEdit: initPLAF non-edt old=javax.swing.plaf.metal.MetalLookAndFeel requested=null new=javax.swing.plaf.metal.MetalLookAndFeel
+23:57:17 [main] [debug] ActionSet: Loading actions from file:/C:/Users/User/Downloads/jedit_merge/build/classes/core/org/gjt/sp/jedit/actions.xml
+23:57:17 [main] [debug] DockableWindowManager: Loading dockables from file:/C:/Users/User/Downloads/jedit_merge/build/classes/core/org/gjt/sp/jedit/dockables.xml
+23:57:17 [AWT-EventQueue-0] [debug] EditBus: SearchSettingsChanged[source=null]
+23:57:17 [main] [notice] jEdit: Loading plugins from C:\Users\User\Downloads\jedit_merge\jars
+23:57:17 [main] [notice] jEdit: Loading plugins from C:\Users\User\Downloads\jedit_merge\build\settings\jars
+23:57:17 [main] [message] HistoryModel: Loading history
+23:57:17 [main] [message] BufferHistory: Loading C:\Users\User\Downloads\jedit_merge\build\settings\recent.xml
+23:57:17 [main] [message] KillRing: Loading C:\Users\User\Downloads\jedit_merge\build\settings\killring.xml
+23:57:17 [main] [debug] jEdit: initPLAF non-edt old=javax.swing.plaf.metal.MetalLookAndFeel requested=null new=javax.swing.plaf.metal.MetalLookAndFeel
+23:57:17 [main] [debug] jEdit: SOCKS proxy disabled
+23:57:17 [main] [debug] jEdit: HTTP proxy disabled
+23:57:17 [AWT-EventQueue-0] [debug] EditBus: PropertiesChanged[source=null]
+23:57:17 [main] [message] jEdit: Loading mode catalog file C:\Users\User\Downloads\jedit_merge\modes\catalog
+23:57:17 [main] [message] jEdit: Loading mode catalog file C:\Users\User\Downloads\jedit_merge\build\settings\modes\catalog
+23:57:17 [main] [debug] Macros: Registered beanshell macro handler
+23:57:17 [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=macros,source=null]
+23:57:17 [main] [message] BeanShell: Running script C:\Users\User\Downloads\jedit_merge\startup\startup.bsh
+23:57:17 [main] [notice] jEdit$4: Loading edit mode C:\Users\User\Downloads\jedit_merge\modes\text.xml
+23:57:17 [main] [debug] jEdit: main done:1793 ms
+23:57:17 [AWT-EventQueue-0] [message] PerspectiveManager: Loading C:\Users\User\Downloads\jedit_merge\build\settings\perspective.xml
+23:57:17 [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=Untitled-1 (%USERPROFILE%\Downloads\jedit_merge\)]
+23:57:17 [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=Untitled-1 (%USERPROFILE%\Downloads\jedit_merge\)]
+23:57:17 [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=Untitled-1 (%USERPROFILE%\Downloads\jedit_merge\)]
+23:57:17 [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=Untitled-1 (%USERPROFILE%\Downloads\jedit_merge\)]
+23:57:17 [AWT-EventQueue-0] [debug] BufferSet: 1092235478: addBufferSetListener org.gjt.sp.jedit.EditPane[inactive]
+23:57:17 [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[inactive]]
+23:57:17 [AWT-EventQueue-0] [debug] jEdit: checkBufferStatus for current buffer: null
+23:57:17 [AWT-EventQueue-0] [debug] BufferSet: 1092235478 addBufferAt(Untitled-1 (%USERPROFILE%\Downloads\jedit_merge\),-1)
+23:57:17 [AWT-EventQueue-0] [debug] BufferSet: 1092235478: Buffer added Untitled-1 (%USERPROFILE%\Downloads\jedit_merge\) at 0
+23:57:17 [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=CREATED,source=org.gjt.sp.jedit.EditPane[inactive]]
+23:57:17 [AWT-EventQueue-0] [debug] BufferSet: 1092235478 addBufferAt(Untitled-1 (%USERPROFILE%\Downloads\jedit_merge\),0)
+23:57:17 [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=CREATED,source=org.gjt.sp.jedit.View[active]]
+23:57:17 [AWT-EventQueue-0] [debug] EditBus: EditorStarted[source=null]
+23:57:17 [AWT-EventQueue-0] [message] jEdit: Startup complete: 2081 ms
+23:57:17 [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=VIEW_ACTIVATED,source=org.gjt.sp.jedit.View[active]]
+23:57:17 [AWT-EventQueue-0] [debug] JEditTextArea: InputMethodSupport is activated
+23:57:23 [AWT-EventQueue-0] [notice] AWT-EventQueue-0: 23:57:23.809 [AWT-EventQueue-0] INFO  org.log.LogUtil - {"timestamp":1508101043716,"type":"RUN_ACTION","text":"hello\n","stringForm":null}
+23:57:25 [AWT-EventQueue-0] [debug] EditBus: EditorExitRequested[source=org.gjt.sp.jedit.View[active]]
+23:57:25 [AWT-EventQueue-0] [message] PerspectiveManager: Saving C:\Users\User\Downloads\jedit_merge\build\settings\perspective.xml
+23:57:25 [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "C:\Users\User\Downloads\jedit_merge\build\settings\perspective.xml" to "C:\Users\User\Downloads\jedit_merge\build\settings\settings-backup\perspective.xml~1~"
+23:57:25 [AWT-EventQueue-0] [debug] EditBus: EditorExiting[source=null]
+23:57:25 [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=CLOSED,source=org.gjt.sp.jedit.View[active]]
+23:57:25 [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=DESTROYED,source=org.gjt.sp.jedit.EditPane[active]]
+23:57:25 [AWT-EventQueue-0] [debug] BufferSet: 1092235478: Buffer removed Untitled-1 (%USERPROFILE%\Downloads\jedit_merge\)
+23:57:25 [AWT-EventQueue-0] [debug] BufferSetManager: Buffer:Untitled-1 (%USERPROFILE%\Downloads\jedit_merge\) is in no bufferSet anymore, closing it
+23:57:25 [AWT-EventQueue-0] [message] BufferHistory: Saving C:\Users\User\Downloads\jedit_merge\build\settings\recent.xml
+23:57:25 [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "C:\Users\User\Downloads\jedit_merge\build\settings\recent.xml" to "C:\Users\User\Downloads\jedit_merge\build\settings\settings-backup\recent.xml~1~"
+23:57:25 [AWT-EventQueue-0] [message] KillRing: Saving C:\Users\User\Downloads\jedit_merge\build\settings\killring.xml
+23:57:25 [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "C:\Users\User\Downloads\jedit_merge\build\settings\killring.xml" to "C:\Users\User\Downloads\jedit_merge\build\settings\settings-backup\killring.xml~1~"
+23:57:25 [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "C:\Users\User\Downloads\jedit_merge\build\settings\properties" to "C:\Users\User\Downloads\jedit_merge\build\settings\settings-backup\properties~1~"

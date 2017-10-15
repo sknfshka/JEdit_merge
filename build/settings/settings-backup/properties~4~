@@ -1,0 +1,31 @@
+#jEdit properties
+#Sat Oct 14 12:58:55 MSK 2017
+options.height=540
+view.width=622
+vfs.browser.status.width=100
+view.height=505
+search.beanshell.toggle=false
+options.last=general
+view.y=87
+options.y=50
+view.x=1707
+options.x=50
+vfs.browser.modified.width=131
+options.abbrevs.combobox.index=0
+options.width=1035
+vfs.browser.dialog.width=527
+search.ignoreCase.toggle=false
+search.regexp.toggle=false
+search.wholeWord.toggle=false
+vfs.browser.horizontalSplitter=93
+vfs.browser.dialog.height=428
+vfs.browser.size.width=100
+vfs.browser.last-filter=*[^~\#]
+options.splitter=240
+view.extendedState=6
+vfs.browser.type.width=100
+migration.step.checkFileStatus=true
+search.wrap.toggle=false
+vfs.browser.dialog.y=174
+vfs.browser.dialog.x=8
+keymap.current=imported

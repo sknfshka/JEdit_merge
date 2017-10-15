@@ -1,0 +1,55 @@
+13:15:19 [main] [message] jEdit: jEdit home directory is C:\Users\User\Downloads\jedit_merge
+13:15:20 [main] [message] BeanShell: Beanshell Init
+13:15:20 [main] [debug] GUIUtilities: Icon theme set to: tango
+13:15:20 [main] [debug] GUIUtilities: Loading icon theme from: jeditresource:/org/gjt/sp/jedit/icons/themes/tango/
+13:15:20 [main] [debug] EditServer: jEdit server started on port 62760
+13:15:20 [main] [debug] EditServer: Authorization key is 1499675301
+13:15:20 [main] [debug] jEdit: initPLAF non-edt old=javax.swing.plaf.metal.MetalLookAndFeel requested=null new=javax.swing.plaf.metal.MetalLookAndFeel
+13:15:20 [main] [debug] ActionSet: Loading actions from file:/C:/Users/User/Downloads/jedit_merge/build/classes/core/org/gjt/sp/jedit/actions.xml
+13:15:20 [main] [debug] DockableWindowManager: Loading dockables from file:/C:/Users/User/Downloads/jedit_merge/build/classes/core/org/gjt/sp/jedit/dockables.xml
+13:15:20 [AWT-EventQueue-0] [debug] EditBus: SearchSettingsChanged[source=null]
+13:15:20 [main] [notice] jEdit: Loading plugins from C:\Users\User\Downloads\jedit_merge\jars
+13:15:20 [main] [notice] jEdit: Loading plugins from C:\Users\User\Downloads\jedit_merge\build\settings\jars
+13:15:20 [main] [message] HistoryModel: Loading history
+13:15:20 [main] [message] BufferHistory: Loading C:\Users\User\Downloads\jedit_merge\build\settings\recent.xml
+13:15:20 [main] [message] KillRing: Loading C:\Users\User\Downloads\jedit_merge\build\settings\killring.xml
+13:15:20 [main] [debug] jEdit: initPLAF non-edt old=javax.swing.plaf.metal.MetalLookAndFeel requested=null new=javax.swing.plaf.metal.MetalLookAndFeel
+13:15:20 [main] [debug] jEdit: SOCKS proxy disabled
+13:15:20 [main] [debug] jEdit: HTTP proxy disabled
+13:15:20 [AWT-EventQueue-0] [debug] EditBus: PropertiesChanged[source=null]
+13:15:20 [main] [message] jEdit: Loading mode catalog file C:\Users\User\Downloads\jedit_merge\modes\catalog
+13:15:21 [main] [message] jEdit: Loading mode catalog file C:\Users\User\Downloads\jedit_merge\build\settings\modes\catalog
+13:15:21 [main] [debug] Macros: Registered beanshell macro handler
+13:15:21 [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=macros,source=null]
+13:15:21 [main] [message] BeanShell: Running script C:\Users\User\Downloads\jedit_merge\startup\startup.bsh
+13:15:21 [main] [notice] jEdit$4: Loading edit mode C:\Users\User\Downloads\jedit_merge\modes\text.xml
+13:15:21 [main] [debug] jEdit: main done:3138 ms
+13:15:21 [AWT-EventQueue-0] [message] PerspectiveManager: Loading C:\Users\User\Downloads\jedit_merge\build\settings\perspective.xml
+13:15:21 [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=Untitled-1 (%USERPROFILE%\Downloads\jedit_merge\)]
+13:15:21 [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=Untitled-1 (%USERPROFILE%\Downloads\jedit_merge\)]
+13:15:21 [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=Untitled-1 (%USERPROFILE%\Downloads\jedit_merge\)]
+13:15:21 [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=Untitled-1 (%USERPROFILE%\Downloads\jedit_merge\)]
+13:15:21 [AWT-EventQueue-0] [debug] BufferSet: 1529098256: addBufferSetListener org.gjt.sp.jedit.EditPane[inactive]
+13:15:21 [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[inactive]]
+13:15:21 [AWT-EventQueue-0] [debug] jEdit: checkBufferStatus for current buffer: null
+13:15:21 [AWT-EventQueue-0] [debug] BufferSet: 1529098256 addBufferAt(Untitled-1 (%USERPROFILE%\Downloads\jedit_merge\),-1)
+13:15:21 [AWT-EventQueue-0] [debug] BufferSet: 1529098256: Buffer added Untitled-1 (%USERPROFILE%\Downloads\jedit_merge\) at 0
+13:15:21 [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=CREATED,source=org.gjt.sp.jedit.EditPane[inactive]]
+13:15:21 [AWT-EventQueue-0] [debug] BufferSet: 1529098256 addBufferAt(Untitled-1 (%USERPROFILE%\Downloads\jedit_merge\),0)
+13:15:21 [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=CREATED,source=org.gjt.sp.jedit.View[active]]
+13:15:21 [AWT-EventQueue-0] [debug] EditBus: EditorStarted[source=null]
+13:15:21 [AWT-EventQueue-0] [message] jEdit: Startup complete: 3694 ms
+13:15:21 [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=VIEW_ACTIVATED,source=org.gjt.sp.jedit.View[active]]
+13:15:21 [AWT-EventQueue-0] [debug] JEditTextArea: InputMethodSupport is activated
+13:15:43 [AWT-EventQueue-0] [debug] EditBus: PositionChanging[what=POSITION_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+13:15:44 [AWT-EventQueue-0] [notice] AWT-EventQueue-0: 13:15:44.763 [AWT-EventQueue-0] INFO  org.log.LogUtil - {"timestamp":1506852944636,"type":"CHARACTER_KEY","position":0,"mask":0,"keyCode":49,"keyChar":"1","stringForm":"Character key with character 1 and keycode 49. 1506852944636"}
+13:15:44 [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=DIRTY_CHANGED,view=null,source=Untitled-1 (%USERPROFILE%\Downloads\jedit_merge\)]
+13:15:44 [AWT-EventQueue-0] [notice] AWT-EventQueue-0: 13:15:44.969 [AWT-EventQueue-0] INFO  org.log.LogUtil - {"timestamp":1506852944968,"type":"CHARACTER_KEY","position":1,"mask":0,"keyCode":50,"keyChar":"2","stringForm":"Character key with character 2 and keycode 50. 1506852944968"}
+13:15:45 [AWT-EventQueue-0] [notice] AWT-EventQueue-0: 13:15:45.355 [AWT-EventQueue-0] INFO  org.log.LogUtil - {"timestamp":1506852945355,"type":"CHARACTER_KEY","position":2,"mask":0,"keyCode":51,"keyChar":"3","stringForm":"Character key with character 3 and keycode 51. 1506852945355"}
+13:15:45 [AWT-EventQueue-0] [notice] AWT-EventQueue-0: 13:15:45.721 [AWT-EventQueue-0] INFO  org.log.LogUtil - {"timestamp":1506852945720,"type":"CHARACTER_KEY","position":3,"mask":0,"keyCode":52,"keyChar":"4","stringForm":"Character key with character 4 and keycode 52. 1506852945720"}
+13:15:46 [AWT-EventQueue-0] [notice] AWT-EventQueue-0: 13:15:46.769 [AWT-EventQueue-0] INFO  org.log.LogUtil - {"timestamp":1506852946769,"type":"CHARACTER_KEY","position":4,"mask":0,"keyCode":53,"keyChar":"5","stringForm":"Character key with character 5 and keycode 53. 1506852946769"}
+13:15:48 [AWT-EventQueue-0] [notice] AWT-EventQueue-0: 13:15:48.242 [AWT-EventQueue-0] INFO  org.log.LogUtil - {"timestamp":1506852948241,"type":"DELETE_KEY","position":5,"mask":0,"keyCode":8,"deletedText":"5","deletedCharPosition":4,"stringForm":"Delete key with key code 8. 1506852948241. Deleted text 5 in position 4"}
+13:15:48 [AWT-EventQueue-0] [notice] AWT-EventQueue-0: 13:15:48.791 [AWT-EventQueue-0] INFO  org.log.LogUtil - {"timestamp":1506852948791,"type":"DELETE_KEY","position":4,"mask":0,"keyCode":8,"deletedText":"4","deletedCharPosition":3,"stringForm":"Delete key with key code 8. 1506852948791. Deleted text 4 in position 3"}
+13:15:50 [AWT-EventQueue-0] [notice] AWT-EventQueue-0: 13:15:50.138 [AWT-EventQueue-0] INFO  org.log.LogUtil - {"timestamp":1506852950138,"type":"CHARACTER_KEY","position":3,"mask":0,"keyCode":10,"keyChar":"\n","stringForm":"Character key with character \n and keycode 10. 1506852950138"}
+13:15:50 [AWT-EventQueue-0] [debug] EditBus: PositionChanging[what=POSITION_CHANGING,source=org.gjt.sp.jedit.EditPane[active]]
+13:15:50 [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "C:\Users\User\Downloads\jedit_merge\build\settings\perspective.xml" to "C:\Users\User\Downloads\jedit_merge\build\settings\settings-backup\perspective.xml~1~"

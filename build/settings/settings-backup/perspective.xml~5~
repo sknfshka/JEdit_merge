@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE PERSPECTIVE SYSTEM "perspective.dtd">
+<PERSPECTIVE>
+<BUFFER AUTORELOAD="TRUE" AUTORELOAD_DIALOG="TRUE">C:\Users\User\Downloads\jedit_merge\rtest.c</BUFFER>
+<VIEW PLAIN="FALSE">
+<PANES>
+"C:\\Users\\User\\Downloads\\jedit_merge\\rtest.c" buffer "C:\\Users\\User\\Downloads\\jedit_merge\\rtest.c" buff "global" bufferset
+</PANES>
+<GEOMETRY X="1707" Y="87" WIDTH="622" HEIGHT="505" EXT_STATE="6" />
+</VIEW>
+</PERSPECTIVE>
